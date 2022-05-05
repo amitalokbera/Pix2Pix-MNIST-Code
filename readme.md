@@ -6,7 +6,7 @@ This repo contains code to train Pix2Pix GAN model from scratch on custom MNIST 
 
 ## Installation
 
-Make sure to install all ther required libaries using requirements.txt file
+Make sure to install all the required libaries using requirements.txt file
 
 ```python
 pip install -r requirements.txt
